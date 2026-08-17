@@ -1,0 +1,2 @@
+"SKU","OfferTermCode","RateCode","TermType","PriceDescription","EffectiveDate","StartingRange","EndingRange","Unit","PricePerUnit","Currency","Product Family","serviceCode","Location","Location Type","usageType","operation","Region Code","serviceName"
+"NUVWJ3Z7GKC98S2P","JRTCKXETXF","NUVWJ3Z7GKC98S2P.JRTCKXETXF.6YS6EN2CT7","OnDemand","USD 4.75 per Hour for act in US East (N. Virginia)","2025-11-01","0","Inf","Second","0.0013194440","USD","Amazon Bedrock","NovaAct","US East (N. Virginia)","AWS Region","USE1-act","InvokeActStep","us-east-1","NovaAct"
